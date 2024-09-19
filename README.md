@@ -1,16 +1,25 @@
-## Hi there 👋
+# Muhammad Thariq Arya Putra Sembiring
 
-<!--
-**mhdthariq/mhdthariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm **Muhammad Thariq Arya Putra Sembiring**, a student at **Politeknik Negeri Medan**. I am passionate about **cyber security**, **web development**, and exploring the field of **Machine Learning**. Currently, I'm undergoing training at **Bangkit Academy Batch 2 2024**, and continuously expanding my knowledge in various programming languages and technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: PHP, Python, Java, JavaScript, Kotlin, C
+- **Currently Learning**: C, C++, Rust
+- **Interests**: Cyber Security, Web Development, Machine Learning
+
+## 🎓 Education
+
+- **Politeknik Negeri Medan**
+- **Bangkit Academy Batch 2 2024** (On-going)
+
+## 🎯 Goals
+
+- Enhance my skills in **C**, **C++**, and **Rust**.
+- Dive deeper into **Machine Learning** and **Cyber Security**.
+- Contribute to more open-source projects.
+
+## 📫 Contact
+
+- Email: [mthariqaryaputra1@gmail.com](mailto:mthariqaryaputra1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-thariq-arya-putra-sembiring-6269a3197/)
