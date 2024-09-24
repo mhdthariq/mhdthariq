@@ -10,8 +10,9 @@
 
 ## 🎓 Education
 
-- **Politeknik Negeri Medan**
-- **Bangkit Academy Batch 2 2024** (On-going)
+- **SMK Telkom Medan** (Computer Engineering)
+- **Politeknik Negeri Medan** (Software Engineering)
+- **Bangkit Academy Batch 2 2024 CLoud Computing** (On-going)
 
 ## 🎯 Goals
 
