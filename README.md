@@ -23,4 +23,4 @@
 ## 📫 Contact
 
 - Email: [mthariqaryaputra1@gmail.com](mailto:mthariqaryaputra1@gmail.com)
-- LinkedIn: [Muhammad Thariq Arya Putra Sembiring](https://www.linkedin.com/in/muhammad-thariq-arya-putra-sembiring-6269a3197/)
+- LinkedIn: [Muhammad Thariq Arya Putra Sembiring](https://www.linkedin.com/in/muhammad-thariq-arya-putra-sembiring)
